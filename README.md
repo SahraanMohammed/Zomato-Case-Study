@@ -26,5 +26,6 @@ Creating visualizations has helped to understand better how restaurants rank top
 
 <img src="https://github.com/SahraanMohammed/Zomato-Case-Study/assets/172436156/b788f24b-0715-4fcd-ac18-d5e69048559a" width="350" height="200">
 
-1. To diversify and reduce risk I would recommend investing in stocks with lower correlation
-2. Stay away from investing in the same two stocks with high correlation 
+1. To increase profit and customer retention I would offer online ordering
+2. Offer some North Indian foods at your restaurant 
+3. Stay in hot spot areas to attract a high volume of customers (HeatMap is located in Python Notebook)
