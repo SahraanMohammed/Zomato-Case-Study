@@ -1,30 +1,30 @@
 # Zomato-Case-Study
 ## Executive Summary:
-Using Python and libraries such as Pandas, Matplotlib, and Numpy, I pulled data from Zamato on various restraunts to create meaningful conclusions. After identifying that the correlation between these stocks was the highest in Microsoft and Amazon, I concluded that a few things are good to keep in mind:
+Using Python and libraries such as Pandas, Matplotlib, and Numpy, I pulled data from Zamato on various restaurants to create meaningful conclusions. After finding where the hottest spots are located for cuisines and identifying that taking online orders versus not taking online orders was crucial in the rating of the restaurants, I concluded that a few things are good to keep in mind:
 
-  1. Stocks will move in the same direction 96% of the time
-  2. Investing in both stocks is not efficient diversification
-  3. Risk will be similar in both stocks
+  1. Restaurants that accept online orders generally have higher ratings
+  2. Accepting online orders increases volume and customer retention rate 
+  3. North Indian cuisines are among the most popular types of food 
 
 ## Business Problem:
 
-Making investments is essential for individual or group investments. Risk is always a factor in investing in the stock market. How can we find a way to reduce this risk and maximize profit?
+Making investments is essential for restaurants trying to succeed in a competitive business. Convenience is key to restaurant success. How can we find a way to maximize restaurant profit and edge out competition?
 
 ## Methodology:
 
   1. Extracted, cleaned, and transformed the data from the source
-  2. Create visualizations to get a deeper understanding
+  2. Create visualizations like bar graphs and heatmaps to get a deeper understanding
      
 ## Skills:
 
 Python: Pandas, Matplotlib, Numpy, and writing functions.
 
 ## Results & Business Recommendation:
-Creating visualizations has helped to get a deeper understanding of how stocks move and to make meaningful decisions with these insights. The correlation between certain stocks like Microsoft and Amazon is higher than others and lower in others as you can see below. 
+Creating visualizations has helped to understand better how restaurants rank top in ratings and gain success in their industry. Offering online ordering increases customer ratings and reviews as you can see in the rating of 3.7 and above.
 
-<img src="https://github.com/SahraanMohammed/Stock-Price-Analysis-/assets/172436156/3a858c5f-6393-4eec-b256-c9943e8e4f2f" width="350" height="200">
+<img src="https://github.com/SahraanMohammed/Zomato-Case-Study/assets/172436156/4f39a03c-8cc2-42c8-816b-6e39794c39a8" width="350" height="200">
 
-<img src="https://github.com/SahraanMohammed/Stock-Price-Analysis-/assets/172436156/a9096523-0f5e-44ca-a252-f892297e8960" width="350" height="200">
+<img src="https://github.com/SahraanMohammed/Zomato-Case-Study/assets/172436156/b788f24b-0715-4fcd-ac18-d5e69048559a" width="350" height="200">
 
 1. To diversify and reduce risk I would recommend investing in stocks with lower correlation
 2. Stay away from investing in the same two stocks with high correlation 
