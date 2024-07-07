@@ -28,4 +28,4 @@ Creating visualizations has helped to understand better how restaurants rank top
 
 1. To increase profit and customer retention I would offer online ordering
 2. Offer some North Indian foods at your restaurant 
-3. Stay in hot spot areas to attract a high volume of customers (HeatMap is located in Python Notebook)
+3. Stay in hot spot areas to attract a high volume of customers (HeatMap is located in Python Notebook [here](https://nbviewer.org/github/SahraanMohammed/Zomato-CaseStudy/blob/main/Geospatial%20Analysis%20Project%20%28Zomato%20Case-Study%29.ipynb)
