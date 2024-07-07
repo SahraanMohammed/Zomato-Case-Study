@@ -1,6 +1,6 @@
 # Zomato-Case-Study
 ## Executive Summary:
-Using Python and libraries such as Pandas, Matplotlib, and Numpy, I pulled data from 5 years on individual stocks to create meaningful conclusions. After identifying that the correlation between these stocks was the highest in Microsoft and Amazon, I concluded that a few things are good to keep in mind:
+Using Python and libraries such as Pandas, Matplotlib, and Numpy, I pulled data from Zamato on various restraunts to create meaningful conclusions. After identifying that the correlation between these stocks was the highest in Microsoft and Amazon, I concluded that a few things are good to keep in mind:
 
   1. Stocks will move in the same direction 96% of the time
   2. Investing in both stocks is not efficient diversification
